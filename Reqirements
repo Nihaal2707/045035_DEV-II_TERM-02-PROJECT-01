@@ -1,0 +1,5 @@
+Required lib -:
+Pandas: For data manipulation and analysis.
+NumPy: For numerical operations.
+Matplotlib and Seaborn: For creating static, interactive, and informative visualizations.
+Plotly: For interactive data visualization.
